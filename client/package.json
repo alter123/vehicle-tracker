@@ -8,7 +8,7 @@
     "babel-plugin-import": "^1.12.2",
     "gh-pages": "^2.1.1",
     "leaflet": "^1.6.0",
-    "react": "0.0.0-experimental-b53ea6ca0",
+    "react": "0.14.0",
     "react-dom": "0.0.0-experimental-b53ea6ca0",
     "react-leaflet": "^2.6.0",
     "react-router-dom": "^5.1.2",
